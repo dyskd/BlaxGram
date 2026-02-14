@@ -4,13 +4,7 @@ News BlaxGram.
 Unofficial Telegram client with extra features. (Soon)
 BlaxGram he didn't come out!
 
-Recent changes:
-gift links (example: /Gifts-Code/123qwerty482wxp1x9vbcyw3J8Fzj3cJR3OrjdxK4CO4ncK38c0JRIC4jc13JRCk5vbSEICJ)
-awards
-Account IDs
-star reactions
-Channel ID (-100...)
-Group ID (-4752...)
+New: the first version that will be available will not be an .apk, but an .exe
+Sorry
 
-We will complete this list soon.
-Bye Bye!
+Approximately in 22.02.2026 16:00 :>
