@@ -7,4 +7,17 @@ BlaxGram he didn't come out!
 New: the first version that will be available will not be an .apk, but an .exe
 Sorry
 
-Approximately in 22.02.2026 16:00 :>
+Update soon:
+Soon:
+Adding a couple of accounts
+Gift codes can be activated on your account (previously it was not possible)
+Adding stickers (via the @Stickers bot)
+BlaxGram business (users)
+Bots chat (@Bot <request>)
+Log in to one account from multiple devices (sessions)
+New bots:
+@Stickers (bot)
+@SpamBot
+
+
+pelease... :< Approximately in 22.02.2026 16:00 :>
