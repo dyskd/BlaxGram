@@ -1,8 +1,8 @@
 # BlaxGram
 News BlaxGram.
 
-! BlaxGram he didn't come out !
-
+Unofficial Telegram client with extra features. (Soon)
+BlaxGram he didn't come out!
 
 Recent changes:
 gift links (example: /Gifts-Code/123qwerty482wxp1x9vbcyw3J8Fzj3cJR3OrjdxK4CO4ncK38c0JRIC4jc13JRCk5vbSEICJ)
